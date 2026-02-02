@@ -1,0 +1,9 @@
+title: "Notas e Ideias"
+description: "Estudos sobre matemática, filosofia e computação"
+author: "Seu Nome"
+
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
