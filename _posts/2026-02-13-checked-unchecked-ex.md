@@ -1,6 +1,6 @@
 ---
 title: "Checked e Unchecked Exceptions no Java"
-date: 2026-13-09
+date: 2026-02-13
 ---
 
 # Checked e Unchecked Exceptions no Java
