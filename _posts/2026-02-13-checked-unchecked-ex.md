@@ -1,10 +1,9 @@
 ---
-title: "A relação entre equals e hashCode em estruturas de dados baseadas em hashing"
-date: 2026-02-09
+title: "Checked e Unchecked Exceptions no Java"
+date: 2026-13-09
 ---
 
 # Checked e Unchecked Exceptions no Java
-
 
 A hierarquia de exceptions no Java não existe apenas para herdar atributos e comportamentos — ela também conta uma história.  
 Navegar pela hierarquia de uma exception nos diz muito sobre sua natureza.
