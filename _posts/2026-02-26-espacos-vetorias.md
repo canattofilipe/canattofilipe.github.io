@@ -42,6 +42,7 @@ Dado que temos
 $$
 \{(x_1, x_2, 0) : x_1, x_2 \in F\}
 $$
+
 Esse conjunto vive em $F^3$ e representa o plano $z = 0$.
 
 São vetores confinados nas dimensões $x$ e $y$; ainda que combinados, eles não mudarão de plano.
