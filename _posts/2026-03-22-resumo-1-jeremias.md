@@ -1,6 +1,7 @@
 ---
 title: "Breve resumo da minha primeira leitura do livro de Jeremias"
 date: 2026-03-22
+tags: [teologia]
 ---
 
 # Breve resumo da minha primeira leitura do livro de Jeremias
