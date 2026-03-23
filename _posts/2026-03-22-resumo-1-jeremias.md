@@ -127,7 +127,7 @@ O Senhor disciplina seus filhos; a disciplina vem como meio de correção de rot
 
 Hebreus 12:5,6
 
-Jeremias havia dito que a disciplina do Senhor não seria fácil, que a futura geração substituiria o Egito como símbolo de sofrimento pelo cativeiro babilônico.
+Jeremias havia dito que a disciplina do Senhor não seria fácil, que a futura geração substituiria o Egito como símbolo de livramento pelo cativeiro babilônico.
 
 > ⁷ "Está chegando o dia", diz o Senhor, "em que as pessoas que fizerem um juramento não dirão: ‘Tão certo como vive o Senhor, que tirou o povo de Israel da terra do Egito’.  
 > ⁸ Em vez disso, dirão: ‘Tão certo como vive o Senhor, que trouxe o povo de Israel de volta da terra do norte e de todas as nações onde os havia exilado’. Então viverão em sua própria terra."
